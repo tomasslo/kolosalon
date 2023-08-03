@@ -1,0 +1,41 @@
+
+body {
+    background-color: azure;
+    padding: 30px;
+}
+
+header {
+    width: fit-content;
+    margin: auto;
+    text-align: center;
+}
+
+main {
+    width: fit-content;
+    margin: auto;
+}
+
+fieldset {
+    border-radius: 10px;
+}
+
+legend, input, select {
+    margin-bottom: 20px;
+}
+
+input[type="number"] {
+    width: 4em;
+}
+
+.oznameniOObjednavceHodOK {
+    color: green;
+}
+
+.oznameniOObjednavceHodKO {
+    color: red;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+}
